@@ -70,7 +70,7 @@ def run_tests():
     """
     Validate representative behavior in the public portfolio edition.
 
-    The complete production test suite and business-rule scenarios
+    The complete production test suite and business rule scenarios
     are intentionally omitted.
     """
     all_tests_passed = True
