@@ -6,7 +6,7 @@ A property management workflow automation built by **HerCode LLC** to improve ma
 
 Property management teams often manage maintenance requests across forms, spreadsheets, emails, vendors, and property management systems.
 
-Manual handoffs can create delayed responses, inconsistent routing, missed follow-ups, and limited visibility into requests that need management attention.
+Manual handoffs can create delayed responses, inconsistent routing, missed follow ups, and limited visibility into requests that need management attention.
 
 ## The Solution
 
@@ -24,7 +24,7 @@ The system is designed to:
 
 ## How It Works
 
-The architecture separates business decision-making from workflow orchestration.
+The architecture separates business decision making from workflow orchestration.
 
 1. A maintenance request enters the workflow.
 2. The request is sent to a Flask API.
@@ -51,9 +51,9 @@ The Python layer demonstrates a modular approach to maintenance operations logic
 Representative portfolio logic includes:
 
 - Priority classification
-- Service-category routing
+- Service category routing
 - Request status determination
-- Time-based review logic
+- Time based review logic
 - Structured JSON output
 
 The public repository contains a functional portfolio implementation designed to demonstrate the architecture and coding approach.
@@ -127,7 +127,7 @@ The approach can help organizations:
 
 This repository is a public technical demonstration of the solution architecture and development approach.
 
-The public implementation intentionally uses representative business rules and sample data. Complete client-specific configurations, operational policies, credentials, integration settings, and private deployment details are not included.
+The public implementation intentionally uses representative business rules and sample data. Complete client specific configurations, operational policies, credentials, integration settings, and private deployment details are not included.
 
 All property, resident, and operational data used in this demonstration is fictional.
 
