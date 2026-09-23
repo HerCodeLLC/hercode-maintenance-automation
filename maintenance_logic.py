@@ -4,13 +4,13 @@ Public Portfolio Edition
 
 This module demonstrates the structure used to process maintenance
 requests while intentionally omitting the complete production
-business-rule configuration.
+business rule configuration.
 """
 
 
 def determine_priority(request):
     """
-    Demonstrate rule-based maintenance prioritization.
+    Demonstrate rule based maintenance prioritization.
     Additional production rules are intentionally omitted.
     """
     if request.get("safety_hazard", False):
@@ -41,7 +41,7 @@ def determine_vendor(request):
 
 def determine_escalation(priority, hours_open):
     """
-    Demonstrate time-based escalation logic.
+    Demonstrate time based escalation logic.
 
     Production escalation thresholds and workflow conditions
     are intentionally omitted from the public portfolio version.
