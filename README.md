@@ -138,3 +138,15 @@ HerCode LLC builds practical technology solutions around real business problems,
 **Website:** https://hercodelegacy.com  
 **LinkedIn:** https://www.linkedin.com/company/hercode-llc/  
 **Email:** hercodellc@gmail.com
+
+## License and Commercial Use
+
+Copyright © 2026 HerCode LLC. All Rights Reserved.
+
+This repository is publicly available as a portfolio demonstration of work created by HerCode LLC. It is **not open source software**.
+
+You may view the project and review the code, but commercial use, copying, modification, redistribution, use in paid client work, or incorporation into a commercial product or service requires prior written permission from HerCode LLC.
+
+If you are interested in using this solution for your business, licensing the code, or having HerCode customize and implement a version for your organization, contact HerCode LLC.
+
+See the [LICENSE](LICENSE) file for complete terms.
